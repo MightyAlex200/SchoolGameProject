@@ -1,0 +1,1047 @@
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/MyGameProject.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin" 3
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 4
+"../../../Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 7
+"../../../Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin" 8
+"../../../Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin" 9
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 10
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 11
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 12
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 13
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 14
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 15
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 16
+"../../../Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin" 17
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 18
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 19
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 20
+"../../../Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin" 21
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 22
+"../../../Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin" 23
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 24
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 25
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 26
+"../../../Engine/Plugins/Experimental/StructBox/StructBox.uplugin" 27
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 28
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 29
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 30
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 31
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 32
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 33
+"../../../Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin" 34
+"../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin" 35
+"../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin" 36
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 37
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 38
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin" 39
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 40
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 41
+"../../../Engine/Plugins/Runtime/Analytics/Flurry/IOSFlurry/IOSFlurry.uplugin" 42
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 43
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 44
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 45
+"../../../Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin" 46
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 47
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 48
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 49
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 50
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 51
+"../../../Engine/Plugins/Runtime/LeapMotionController/LeapMotionController.uplugin" 52
+"../../../Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin" 53
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 54
+"../../../Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin" 55
+"../../../Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin" 56
+"../../../Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin" 57
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 58
+"../../../Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin" 59
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 60
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 61
+"../../../Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin" 62
+"../../../Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin" 63
+"../../../Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin" 64
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 65
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 66
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 67
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 68
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 69
+"..\..\..\Engine\Content\Internationalization\icudt53l\cnvalias.icu" 70
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US_POSIX.res" 71
+"..\..\..\Engine\Content\Internationalization\icudt53l\pool.res" 72
+"..\..\..\Engine\Content\Internationalization\icudt53l\en_US.res" 73
+"..\..\..\Engine\Content\Internationalization\icudt53l\en.res" 74
+"..\..\..\Engine\Content\Internationalization\icudt53l\root.res" 75
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/Manifest.ini" 76
+"../../../Engine/Config/Base.ini" 77
+"../../../Engine/Config/BaseEngine.ini" 78
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Config/DefaultEngine.ini" 79
+"../../../Engine/Config/Windows/WindowsEngine.ini" 80
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Engine.ini" 81
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 82
+"../../../Engine/Config/BaseGame.ini" 83
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Config/DefaultGame.ini" 84
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Game.ini" 85
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 86
+"../../../Engine/Config/BaseInput.ini" 87
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Config/DefaultInput.ini" 88
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Input.ini" 89
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 90
+"../../../Engine/Config/BaseEditor.ini" 91
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Config/DefaultEditor.ini" 92
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Editor.ini" 93
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 94
+"../../../Engine/Config/BaseEditorPerProjectUserSettings.ini" 95
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/EditorPerProjectUserSettings.ini" 96
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/EditorPerProjectUserSettings.ini" 97
+"../../../Engine/Config/BaseEditorSettings.ini" 98
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorSettings.ini" 99
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/EditorSettings.ini" 100
+"../../../Engine/Config/BaseEditorLayout.ini" 101
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorLayout.ini" 102
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 103
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 104
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/EditorKeyBindings.ini" 105
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 106
+"../../../Engine/Config/BaseCompat.ini" 107
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Compat.ini" 108
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 109
+"../../../Engine/Config/BaseLightmass.ini" 110
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Lightmass.ini" 111
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 112
+"../../../Engine/Config/BaseScalability.ini" 113
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/Scalability.ini" 114
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 115
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/GameUserSettings.ini" 116
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 117
+"../../../Engine/Config/BaseDeviceProfiles.ini" 118
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/DeviceProfiles.ini" 119
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 120
+"../../../Engine/Config/ConsoleVariables.ini" 121
+"..\..\..\Engine\Content\Internationalization\icudt53l\es.res" 122
+"..\..\..\Engine\Content\Internationalization\icudt53l\ja.res" 123
+"..\..\..\Engine\Content\Internationalization\icudt53l\ko.res" 124
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt_BR.res" 125
+"..\..\..\Engine\Content\Internationalization\icudt53l\pt.res" 126
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_CN.res" 127
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans_CN.res" 128
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh_Hans.res" 129
+"..\..\..\Engine\Content\Internationalization\icudt53l\zh.res" 130
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/Editor/en/Editor.locres" 131
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 132
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/Keywords/en/Keywords.locres" 133
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/Category/en/Category.locres" 134
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/ToolTips/en/ToolTips.locres" 135
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/PropertyNames/en/PropertyNames.locres" 136
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Content/Localization/Engine/en/Engine.locres" 137
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 138
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 139
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 140
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 141
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 142
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VertexFactoryCommon.usf" 143
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/Common.usf" 144
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MetalCommon.usf" 145
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderVersion.usf" 146
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/CommonViewUniformBuffer.usf" 147
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/Definitions.usf" 148
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/Random.usf" 149
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 150
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 151
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 152
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactory.usf" 153
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 154
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 155
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 156
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 157
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 158
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeVertexFactory.usf" 159
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SlateElementPixelShader.usf" 160
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrectionCommon.usf" 161
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MaterialTemplate.usf" 162
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOfFieldCommon.usf" 163
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceFieldShared.usf" 164
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SpeedTreeCommon.usf" 165
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphereCommon.usf" 166
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PaniniProjection.usf" 167
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/EyeAdaptationCommon.usf" 168
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCommon.usf" 169
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredShadingCommon.usf" 170
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightAccumulator.usf" 171
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SlateVertexShader.usf" 172
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSortKeyGen.usf" 173
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleBoundsShader.usf" 174
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 175
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleInjectionShader.usf" 176
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleSimulationShader.usf" 177
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 178
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 179
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/UpdateTextureShaders.usf" 180
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 181
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementPixelShader.usf" 182
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ColorUtils.usf" 183
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/IESLightProfilesCommon.usf" 184
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 185
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementVertexShader.usf" 186
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenVertexShader.usf" 187
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenPixelShader.usf" 188
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/RadixSortShaders.usf" 189
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 190
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/NullPixelShader.usf" 191
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LandscapeGrassWeight.usf" 192
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VisualizeTexture.usf" 193
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceReflections.usf" 194
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BRDF.usf" 195
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MonteCarlo.usf" 196
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ScreenSpaceRayCast.usf" 197
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/FilterVertexShader.usf" 198
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/FilterPixelShader.usf" 199
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 200
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 201
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/TonemapCommon.usf" 202
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ACES.usf" 203
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MiniFontCommon.usf" 204
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 205
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessUpscale.usf" 206
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTonemap.usf" 207
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTestImage.usf" 208
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalAA.usf" 209
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 210
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSubsurface.usf" 211
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SeparableSSS.usf" 212
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 213
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 214
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 215
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMotionBlur.usf" 216
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/FastMath.usf" 217
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVelocityFlatten.usf" 218
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMobile.usf" 219
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 220
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensFlares.usf" 221
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLensBlur.usf" 222
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBloom.usf" 223
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHMD.usf" 224
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 225
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHistogram.usf" 226
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessHierarchical.usf" 227
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessGBufferHints.usf" 228
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 229
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDownsample.usf" 230
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessDOF.usf" 231
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 232
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 233
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessCircleDOF.usf" 234
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/CircleDOFCommon.usf" 235
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBusyWait.usf" 236
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessBokehDOF.usf" 237
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessVisualizeDOF.usf" 238
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/FXAAShader.usf" 239
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/Fxaa3_11.usf" 240
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessPassThrough.usf" 241
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 242
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightingCommon.usf" 243
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DynamicLightingCommon.usf" 244
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadingModels.usf" 245
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVFinalPass.usf" 246
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVCommon.usf" 247
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredDecal.usf" 248
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 249
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PostProcessAmbient.usf" 250
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/CubemapCommon.usf" 251
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityShader.usf" 252
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/VelocityCommon.usf" 253
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/Tessellation.usf" 254
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/FlatTessellation.usf" 255
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PNTriangles.usf" 256
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightingShaders.usf" 257
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SHCommon.usf" 258
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionCommon.usf" 259
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 260
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionCommon.usf" 261
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 262
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthCommon.usf" 263
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 264
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelTree.usf" 265
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 266
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SurfelMaterialShared.usf" 267
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldAOShared.usf" 268
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 269
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowFilteringCommon.usf" 270
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 271
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 272
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteVplCommon.usf" 273
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVWriteCommon.usf" 274
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 275
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 276
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 277
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 278
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HZBOcclusion.usf" 279
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 280
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyPixelShader.usf" 281
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HitProxyVertexShader.usf" 282
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 283
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 284
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLightingShared.usf" 285
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 286
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightShaftShader.usf" 287
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 288
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 289
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 290
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVVisualise.usf" 291
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 292
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVDirectLightInject.usf" 293
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPropagate.usf" 294
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVPacking.usf" 295
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 296
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LpvDirectionalOcclusion.usf" 297
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 298
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 299
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClearLists.usf" 300
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LPVClear.usf" 301
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightMapDensityShader.usf" 302
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionPixelShader.usf" 303
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightFunctionVertexShader.usf" 304
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HeightfieldLighting.usf" 305
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowingShared.usf" 306
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 307
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GPUBenchmark.usf" 308
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GlobalDistanceField.usf" 309
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/GammaCorrection.usf" 310
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 311
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 312
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/LightmapCommon.usf" 313
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 314
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogCommon.usf" 315
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogPixelShader.usf" 316
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/HeightFogVertexShader.usf" 317
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulatePS.usf" 318
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistortAccumulateVS.usf" 319
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistortApplyScreenPS.usf" 320
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 321
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SkyLighting.usf" 322
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 323
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldShadowing.usf" 324
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldScreenGridLighting.usf" 325
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldLightingPost.usf" 326
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DistanceFieldGlobalIllumination.usf" 327
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 328
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 329
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 330
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 331
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/EvaluateSurfelMaterial.usf" 332
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ConvertToUniformMesh.usf" 333
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassPixelShader.usf" 334
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassCommon.usf" 335
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ForEachLight.usf" 336
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexShader.usf" 337
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassVertexCommon.usf" 338
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/BasePassTessellationShaders.usf" 339
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecompute.usf" 340
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 341
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 342
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/AtmosphericFogShader.usf" 343
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ResolveVertexShader.usf" 344
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ResolvePixelShader.usf" 345
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/OneColorShader.usf" 346
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MediaShaders.usf" 347
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/ClearReplacementShaders.usf" 348
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 349
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 350
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 351
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 352
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintPixelShader.usf" 353
+"C:/Program Files (x86)/Epic Games/4.10/Engine/Binaries/Win64/../../../Engine/Shaders/MeshPaintVertexShader.usf" 354
+"../../../Engine/Config/Android/AndroidEngine.ini" 355
+"../../../Engine/Config/IOS/IOSEngine.ini" 356
+"../../../Engine/Config/Linux/LinuxEngine.ini" 357
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/DerivedDataCache/Boot.ddc" 358
+"../../../Engine/DerivedDataCache/Compressed.ddp" 359
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 360
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 361
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 363
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 366
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 367
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 368
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 369
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 371
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 372
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 373
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 374
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 375
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 376
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 377
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 378
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 379
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 380
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 381
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 382
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/TemplateDefs.ini" 383
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 384
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/GameplayTags.ini" 385
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini" 386
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 387
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 388
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 389
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 390
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 391
+"..\..\..\Engine\Content\Internationalization\icudt53l\numberingSystems.res" 392
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\supplementalData.res" 393
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\pool.res" 394
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\en.res" 395
+"..\..\..\Engine\Content\Internationalization\icudt53l\curr\root.res" 396
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 397
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 398
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 399
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 400
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 401
+"../../../Engine/Content/EngineResources/Black.uasset" 402
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 403
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 404
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 405
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 406
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 407
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 408
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 409
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 410
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 411
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 412
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 413
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 414
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 415
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 416
+"../../../Engine/Content/EngineSounds/Master.uasset" 417
+"../../../Engine/Content/EngineSounds/Music.uasset" 418
+"../../../Engine/Content/EngineSounds/SFX.uasset" 419
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 420
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 421
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 422
+"../../../Engine/Content/EngineSounds/Voice.uasset" 423
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 424
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 425
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 426
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 427
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 428
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 429
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 430
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 431
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 432
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\ucadata.icu" 433
+"..\..\..\Engine\Content\Internationalization\icudt53l\nfc.nrm" 434
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en_US.res" 435
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\en.res" 436
+"..\..\..\Engine\Content\Internationalization\icudt53l\coll\root.res" 437
+"../../../Engine/Content/EngineResources/AICON-Red.uasset" 438
+"../../../Engine/Content/EngineResources/AICON-Green.uasset" 439
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 440
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 441
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 442
+"../../../Engine/Content/Tutorial/Mobile/SettingUpAndroidTutorial.uasset" 443
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 444
+"../../../Engine/Content/Tutorial/Mobile/InstallingiTunesTutorial.uasset" 445
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/IOS.uasset" 446
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 447
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 448
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 449
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 450
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 451
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 452
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 453
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 454
+"C:/Users/Taylor/AppData/Local/UnrealEngine/4.10/Saved/Config/Windows/SourceControlSettings.ini" 455
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 456
+"C:/Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Config/Windows/SourceControlSettings.ini" 457
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_CapsuleMesh.uasset" 458
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TorusMesh.uasset" 459
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_HandColor.uasset" 460
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_PassthroughMaterial.uasset" 461
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_SampleDistortion.uasset" 462
+"../../../Engine/Plugins/Runtime/LeapMotionController/Content/LM_TestTexture.uasset" 463
+"../../../Engine/Content/BasicShapes/Cube.uasset" 464
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 465
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 466
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 467
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 468
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 469
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 470
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 471
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 472
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 473
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 474
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 475
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 476
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 477
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Intermediate/CachedAssetRegistry.bin" 478
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/CubeNoFall.uasset" 479
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/Doors500x.uasset" 480
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/Doors500x_NoTrigger.uasset" 481
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Levels/Level1.umap" 482
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Levels/Level3.umap" 483
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Sounds/Futuristic_door.uasset" 484
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Crosshair_Auto2.uasset" 485
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/MyHyd_Auto2.uasset" 486
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Button_Auto0.uasset" 487
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Button_Auto1.uasset" 488
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Crosshair_Auto9.uasset" 489
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/CubeNoFall_Auto1.uasset" 490
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/CubeUpsidedown_Auto1.uasset" 491
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/CubeUpsidedown_Auto7.uasset" 492
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/CubeUpsidedown_Auto8.uasset" 493
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/DestroyGrill_Auto5.uasset" 494
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_Auto2.uasset" 495
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_Auto3.uasset" 496
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_Auto4.uasset" 497
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_Auto5.uasset" 498
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_Auto6.uasset" 499
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_NoTrigger_Auto6.uasset" 500
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_OneWay_Auto4.uasset" 501
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/Doors500x_OneWay_Auto5.uasset" 502
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MovingPlatform_Auto2.uasset" 503
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacterProjectile_Auto3.uasset" 504
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacterProjectile_Auto4.uasset" 505
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacterProjectile_Auto9.uasset" 506
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto1.uasset" 507
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto2.uasset" 508
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto4.uasset" 509
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto5.uasset" 510
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto7.uasset" 511
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyCharacter_Auto8.uasset" 512
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto1.uasset" 513
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MyGameMode_Auto2.uasset" 514
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MySecondCharacter_Auto1.uasset" 515
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MySecondCharacter_Auto2.uasset" 516
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MySecondCharacter_Auto3.uasset" 517
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/MySecondCharacter_Auto9.uasset" 518
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto0.uasset" 519
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto1.uasset" 520
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto2.uasset" 521
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto7.uasset" 522
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto8.uasset" 523
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Blueprints/SpinningCube_Auto9.uasset" 524
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Levels/Level2_Auto1.umap" 525
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Levels/Level2_Auto6.umap" 526
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Levels/Level3_Auto1.umap" 527
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Levels/Level3_Auto2.umap" 528
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Materials/Mirror_Auto2.uasset" 529
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/Materials/UpsideDown_Auto1.uasset" 530
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto0.umap" 531
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto1.umap" 532
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto2.umap" 533
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap" 534
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap" 535
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto5.umap" 536
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto6.umap" 537
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto7.umap" 538
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto8.umap" 539
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto9.umap" 540
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Materials/M_Basic_Wall_Inst_Auto1.uasset" 541
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Saved/Autosaves/Game/StarterContent/Materials/M_Tech_Hex_Tile_Transparent_Auto5.uasset" 542
+"../../../Engine/Config/HTML5/HTML5Engine.ini" 543
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 544
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/MyGameMode.uasset" 545
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/MyCharacter.uasset" 546
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/RedXMat.uasset" 547
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/RedX.uasset" 548
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/CubeUpsidedown.uasset" 549
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/UpsideDownMat.uasset" 550
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/DownArrow.uasset" 551
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Crosshair.uasset" 552
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/5/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFCC593998__60344C5EAC67166BE32AAE701C0E0870ADAFBAD6.udd" 553
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/2/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUFEB82A967__7955608483307AC42A0481AB04D4CD76DA83200F.udd" 554
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 555
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 556
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 557
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 558
+"../../../Engine/Content/EditorMaterials/PhAT_JointLimitMaterial.uasset" 559
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 560
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 561
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 562
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 563
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 564
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 565
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 566
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 567
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 568
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 569
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 570
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 571
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_Editor_Preferences_General_40x.uasset" 572
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DSprite_TutorialIcon.uasset" 573
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/icon_ShowSkeletalMeshes_40x.uasset" 574
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape.uasset" 575
+"../../../Engine/Content/Tutorial/Foliage/TutorialAssets/Foliage.uasset" 576
+"../../../Engine/Content/Tutorial/SubEditors/StaticMeshEditorTutorial.uasset" 577
+"../../../Engine/Content/EngineMeshes/Cube.uasset" 578
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 579
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 580
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintMacroLibrariesEditorOverview.uasset" 581
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintMacroLibrary_64x.uasset" 582
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_MacroLib.uasset" 583
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintInterfacesEditorOverview.uasset" 584
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/BlueprintInterface_64x.uasset" 585
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Tutorial_BP_Interface.uasset" 586
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 587
+"../../../Engine/Content/Tutorial/SubEditors/DestructibleMeshEditorTutorial.uasset" 588
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Tutorial_DM.uasset" 589
+"../../../Engine/Content/EditorMeshes/EditorCube.uasset" 590
+"../../../Engine/Content/Tutorial/SubEditors/MaterialEditorTutorial.uasset" 591
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 592
+"../../../Engine/Content/Tutorial/SubEditors/ParticleSystemEditorTutorial.uasset" 593
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 594
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 595
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 596
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 597
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimEditorWalkThrough.uasset" 598
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/NewBlendSpace1D.uasset" 599
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Idle.uasset" 600
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Skeleton.uasset" 601
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/Tutorial_Walk_Fwd.uasset" 602
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.uasset" 603
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat.uasset" 604
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_PhysicsAsset.uasset" 605
+"../../../Engine/Content/Tutorial/SubEditors/PersonaAnimBlueprintEditorWalkthrough.uasset" 606
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.uasset" 607
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 608
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/Character/TutorialCharacter.uasset" 609
+"../../../Engine/Content/Tutorial/Paper2D/SpriteEditorTutorial.uasset" 610
+"../../../Engine/Content/Tutorial/Paper2D/FlipbookEditorTutorial.uasset" 611
+"../../../Engine/Content/Tutorial/Paper2D/TutorialAssets/Paper2DFlipbook_TutorialIcon.uasset" 612
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Manage_Mode.uasset" 613
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Sculpt_Mode.uasset" 614
+"../../../Engine/Content/Tutorial/Landscape/Landscape_Painting_Mode.uasset" 615
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Intro_Tutorial.uasset" 616
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Using_The_Tool_Tutorial.uasset" 617
+"../../../Engine/Content/Tutorial/Foliage/Foliage_Settings_Tutorial.uasset" 618
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 619
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 620
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_TableRound_M.uasset" 621
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Shelf.uasset" 622
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Shelf_M.uasset" 623
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Shelf_N.uasset" 624
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Rock.uasset" 625
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 626
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 627
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 628
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_RockMesh_M.uasset" 629
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_RockMesh_N.uasset" 630
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 631
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 632
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Lamp.uasset" 633
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Lamp_M.uasset" 634
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Lamp_N.uasset" 635
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Frame.uasset" 636
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Frame_M.uasset" 637
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Frame_N.uasset" 638
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Door.uasset" 639
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Door_M.uasset" 640
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Door_N.uasset" 641
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Chair.uasset" 642
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Chair_M.uasset" 643
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Chair_N.uasset" 644
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Bush.uasset" 645
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Bush_D.uasset" 646
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Bush_N.uasset" 647
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_WindowFrame.uasset" 648
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_TableRound.uasset" 649
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_TableRound.uasset" 650
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_TableRound_N.uasset" 651
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Statue.uasset" 652
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_Statue.uasset" 653
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Statue_M.uasset" 654
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Statue_N.uasset" 655
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 656
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Stairs.uasset" 657
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Basic_Floor.uasset" 658
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Basic_Wall.uasset" 659
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/6/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF9672C2DB__9BC11BB047F89ECDA5E1BBEA50DF0E219FC4B1C9.udd" 660
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Shelf.uasset" 661
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Rock.uasset" 662
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_PillarFrame300.uasset" 663
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_PillarFrame.uasset" 664
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 665
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 666
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 667
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_GlassWindow.uasset" 668
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Glass.uasset" 669
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_DoorFrame.uasset" 670
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Door.uasset" 671
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Couch.uasset" 672
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_CornerFrame.uasset" 673
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Chair.uasset" 674
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/SM_Bush.uasset" 675
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Props/MaterialSphere.uasset" 676
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Spark.uasset" 677
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Spark_Core.uasset" 678
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 679
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 680
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 681
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 682
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 683
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 684
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 685
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Water_N.uasset" 686
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 687
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 688
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 689
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 690
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 691
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 692
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 693
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 694
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/Materials/M_Burst.uasset" 695
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Burst_M.uasset" 696
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Steam_Lit.uasset" 697
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Maps/StarterMap.umap" 698
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 699
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Fire01_Cue.uasset" 700
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Fire01.uasset" 701
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Fire.uasset" 702
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 703
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Smoke01_Cue.uasset" 704
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Smoke01.uasset" 705
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Smoke.uasset" 706
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 707
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 708
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Fire_Sparks01.uasset" 709
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Sparks.uasset" 710
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 711
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Steam01_Cue.uasset" 712
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Steam01.uasset" 713
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 714
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 715
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 716
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 717
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 718
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 719
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 720
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 721
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 722
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 723
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 724
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 725
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 726
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 727
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 728
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 729
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 730
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_MacroVariation.uasset" 731
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 732
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 733
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 734
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 735
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 736
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 737
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 738
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 739
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 740
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 741
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 742
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 743
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 744
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 745
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 746
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 747
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 748
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 749
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 750
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 751
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 752
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 753
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 754
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 755
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 756
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 757
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Gradinet_01.uasset" 758
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 759
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 760
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 761
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 762
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 763
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 764
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 765
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 766
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 767
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 768
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 769
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 770
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 771
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 772
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 773
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 774
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 775
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 776
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 777
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Ground_Grass.uasset" 778
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 779
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 780
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 781
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 782
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 783
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Ground_Moss.uasset" 784
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 785
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 786
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 787
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 788
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 789
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 790
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 791
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Copper.uasset" 792
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 793
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Gold.uasset" 794
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 795
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Rust.uasset" 796
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 797
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Metal_Steel.uasset" 798
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 799
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 800
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 801
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 802
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 803
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 804
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 805
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 806
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Rock_Slate.uasset" 807
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 808
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 809
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 810
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 811
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 812
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 813
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 814
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 815
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 816
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 817
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 818
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Tech_Panel.uasset" 819
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 820
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 821
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Water_Lake.uasset" 822
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Water_Ocean.uasset" 823
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Water_M.uasset" 824
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 825
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 826
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 827
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 828
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 829
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 830
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Wood_Oak.uasset" 831
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 832
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 833
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Wood_Pine.uasset" 834
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 835
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 836
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 837
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 838
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 839
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Floor_400x400.uasset" 840
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_400x200.uasset" 841
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 842
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 843
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Collapse_Cue.uasset" 844
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Collapse01.uasset" 845
+"C:/Users/Taylor/AppData/Local/Temp/UnrealShaderWorkingDir/445B8E264AAFAA44F625C79315C12278/1/WorkerOutputOnly.out" 846
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Collapse02.uasset" 847
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 848
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Birds01.uasset" 849
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Wind05.uasset" 850
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Wind06.uasset" 851
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 852
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Starter_Music01.uasset" 853
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 854
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Cube.uasset" 855
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 856
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Sphere.uasset" 857
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_68C9AB954578CB2FCAFDD48324D39C8__F1393DB2823A62EF99764EED9B77555B5ACF2071.udd" 858
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/3/3/NAVCOLLISION_B89838347A4348138EE337A847529C5C_NAVCOLLISION_X_68C9AB954578CB2FC__10CE1CEAFDEA1AAAAFC8C2A6B02489EA66D82DA8.udd" 859
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 860
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 861
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 862
+"C:/Users/Taylor/AppData/Local/Temp/UnrealShaderWorkingDir/445B8E264AAFAA44F625C79315C12278/0/WorkerOutputOnly.out" 863
+"C:/Users/Taylor/AppData/Local/Temp/UnrealShaderWorkingDir/445B8E264AAFAA44F625C79315C12278/2/WorkerOutputOnly.out" 864
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 865
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Basic_Wall_Inst.uasset" 866
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_AssetPlatform.uasset" 867
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 868
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Light02.uasset" 869
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Light01_Cue.uasset" 870
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Light01.uasset" 871
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Explosion_Cue.uasset" 872
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Explosion01.uasset" 873
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Explosion02.uasset" 874
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 875
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 876
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_500x500.uasset" 877
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_400x400.uasset" 878
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Wall_400x300.uasset" 879
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 880
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Architecture/Pillar_50x500.uasset" 881
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/3/AUDIO_0002_0000_OGG_0001_767A30FD4BAE412251213AAB0321BDAE.udd" 882
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/1/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFCC593998__71522903793209AF532C6041BE9BD1356CA969F0.udd" 883
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/8/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUFEB82A967__20D0AED2C56F8A49C6368ACC7304481D5D4226A0.udd" 884
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_812666E64B453334F2809AB793CF8__7D9E342B2E865A0CC0BBC040FF7D6CEB14214220.udd" 885
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_812666E64B453334F2809AB793CF8__134BBF8B557ED20901D27D959F2C553423B15FC3.udd" 886
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/5/4/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_812666E64B453334F2809AB793CF8__D97A79D84449ADC7550FC20207A1800719F5C9EB.udd" 887
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_812666E64B453334F2809AB793CF8__7DE3EF9B1D43DBD75C1C9D6BCD1FFB0B294EF6EE.udd" 888
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 889
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 890
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 891
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 892
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 893
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 894
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 895
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 896
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 897
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 898
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 899
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 900
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Particles/P_Explosion.uasset" 901
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Audio/Light02_Cue.uasset" 902
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/LcKrMAkEi.uasset" 903
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/2/TEXTURE_814DCC3DC72143F49509781513CB9855_BGRA8_80DAA3FD4C3F075DA316FFAF390FD5D__3AF6E64D421EC18830E6CF56AD3B90E4BB1FC9E9.udd" 904
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 905
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 906
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Materials/down-arrow-hand-drawn-sign_318-53286.uasset" 907
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/SpinningCube.uasset" 908
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/Doors500x_OneWay.uasset" 909
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 910
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/ButtonUpsideDown.uasset" 911
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/ButtonCube.uasset" 912
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Blueprints/Button.uasset" 913
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/MyHyd.uasset" 914
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Transparent.uasset" 915
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/9/6/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM5_3__BC5N_DEV_SL_NODBUF5B06A980__05A698FB938A13249B0EDE4CBA29FB58F2C316A6.udd" 916
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 917
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 918
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 919
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 920
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Torus.uasset" 921
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/3/0/MATSM_984AFA3849534FAA8491540B994BD32E_PCD3D_SM4_3__BC5N_DEV_SL_NODBUF9672C2DB__E90A1B4641AFF4883DD4E87018CF51B5EF4AAD26.udd" 922
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Plane.uasset" 923
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 924
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 925
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Pipe.uasset" 926
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 927
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 928
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Cone.uasset" 929
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 930
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Maps/Advanced_Lighting.umap" 931
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 932
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Tube.uasset" 933
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 934
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 935
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 936
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Trim.uasset" 937
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 938
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 939
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_235B73684EA19EC56578258C37B0AEA1__1_0_13123_0.udd" 940
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_6CC0E6934D99A49B3530A98D5FC15609__1_0_13123_0.udd" 941
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_1B72880C424424259BA55BBD7D16510B__1_0_13123_0.udd" 942
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_7E34A0DB4E3F6DA7563FF089038B07B0__1_0_13123_0.udd" 943
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_47EC1B0B4845FC29D3ADF089430DF1C4__1_0_13123_0.udd" 944
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/7/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_240730DB4726580A94F723BBB6DC10AE__1_0_13123_0.udd" 945
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/1/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_6E266B9E4AE9D8CC771FCFB032AD6148__1_0_13123_0.udd" 946
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_F96FA7CC499B3AC6A47E64A1367DB0E7__1_0_13123_0.udd" 947
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_935968814B996D155A81069140D7212B__1_0_13123_0.udd" 948
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_3482A5364BD16C98EE11DBA33757F22E__1_0_13123_0.udd" 949
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_ABBF79A94277FAA87A9BEB8502B73D6B__1_0_13123_0.udd" 950
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_1B46EA5449EDB8FB3BDE0B8A5EE63130__1_0_13123_0.udd" 951
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_13A2057544ABAD1F930493A5EC880117__1_0_13123_0.udd" 952
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_BF96AD4F430C329641479284BDFECE41__1_0_13123_0.udd" 953
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_CFE3927D41AF49D3B30B899FB74350C3__1_0_13123_0.udd" 954
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/7/REFL_ENC_96DFC022836B48889143E9DF484C3296_EAFEF590439F162611E5129988B06B4A.udd" 955
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/2/REFL_ENC_96DFC022836B48889143E9DF484C3296_E33D3EE348A62385B7CDF8B0090C5A31.udd" 956
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/8/4/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AEBBF21847BBCE4C852977B5CF470D9F_0__8010AA4D4C1A2E74B1ACD42ABE1850DCBA9DBFE7.udd" 957
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_AEBBF21847BBCE4C852977B5CF470D9F_0__1FC78A13117F687737D1DB6E250767C643D49C2E.udd" 958
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_DE8CBDA0431F03E0FB9D259876D470D3_0__756E13B37393105D1017D17DA33BCAEE400DCA15.udd" 959
+"../../../Engine/Content/Maps/Entry.umap" 960
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 961
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/7/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_620761CB4172BE243283988EF36C08B2__1_0_13123_0.udd" 962
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4A1F9F06477208F0E13CD18219FA4C6A__1_0_13123_0.udd" 963
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/6/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_5DCBBEB44F4488FBBE6ECE86988E0BA1__1_0_13123_0.udd" 964
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_24B0C70A411012A2868D76A971799FF5__1_0_13123_0.udd" 965
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/7/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4B7229B947F8FBBA43B0DA841570DED8__1_0_13123_0.udd" 966
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_752E0484431DFE5AAA9C9BBEF6E8218F__1_0_13123_0.udd" 967
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/2/5/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_8AAB93B14903E618A2A4C6A25ADC618C__1_0_13123_0.udd" 968
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/2/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C50FC8FD4EFAD70310D367AE5DA2FAEB__1_0_13123_0.udd" 969
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/7/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_FB6658614CA16287CE1B2783DAAA5808__1_0_13123_0.udd" 970
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/5/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_599FCC0142390C460E2272A8A9E56982__1_0_13123_0.udd" 971
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_4C779543455A99BFD306F2B74A55B7CE__1_0_13123_0.udd" 972
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/7/6/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_11B3BD0C40222FACAC50518073D8E314__1_0_13123_0.udd" 973
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_43194D904144B0ED23F13BA2D1CE5__D5E0403DFDAB86C4E5ED75D5C2E30D40425CC2F3.udd" 974
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_43194D904144B0ED23F13BA2D1CE5__52A0E398C67EB9359A38FA7F511592AE0212199A.udd" 975
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_43194D904144B0ED23F13BA2D1CE5__0E6DA6891B7152607720DF97B7D746E637702C2E.udd" 976
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_43194D904144B0ED23F13BA2D1CE5__94AFBEFD6891C7468D53CD0DFECC9F20D2D08E28.udd" 977
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_43194D904144B0ED23F13BA2D1CE5__0379D4490B3C3374DC56EFBDB37BEABE7D7D506D.udd" 978
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_1C480F084402D6F557C070896262E__C50A06B7F0B4121508C547231515C571B1E82ABC.udd" 979
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/8/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7FBD37C04C2E7B3EBFE42DA4C9659C5E__C12BD1615D8B872A772FDA5A0DB94F8E8BF213D4.udd" 980
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/1/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7FBD37C04C2E7B3EBFE42DA4C9659C5E__5BB01786ED77201F27B910AB902276318A9D0383.udd" 981
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7FBD37C04C2E7B3EBFE42DA4C9659C5E__1508FDCDA82185C3C095EB3EF393BA0A30F05C71.udd" 982
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7FBD37C04C2E7B3EBFE42DA4C9659C5E__8C76D71B737CC5422A6309EDAB67F36D972ACBBB.udd" 983
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/2/7/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7FBD37C04C2E7B3EBFE42DA4C9659C5E__11E213E12821AA6A2444FACDFD1B355A9902AE4F.udd" 984
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_328A4D2B45E779BC8FB36893055422EE__7DDCAFCDE8A219F48F3B58F549650BD58CCF045F.udd" 985
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/5/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E89637FE4C7B2E6DCFF4B088FEB24119_0__3C5F2DA94A51DAE8F81A477A8FA4A54016DE0ED9.udd" 986
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E89637FE4C7B2E6DCFF4B088FEB24119_0__FC29BFF35E90EC59B1101EF84EEA533BFD25D376.udd" 987
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E89637FE4C7B2E6DCFF4B088FEB24119_0__480EDDD01A8832075FB293007394F2C6D5FD6A32.udd" 988
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/2/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E89637FE4C7B2E6DCFF4B088FEB24119_0__BA07D7B59043AF3EF2DFD5E167CEF42898DDE62E.udd" 989
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/4/5/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_E89637FE4C7B2E6DCFF4B088FEB24119_0__EFBA7F8F883CADBEB49AA45AE2CCB9B70648EC84.udd" 990
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_1B0F5581462D849BC62E379327A1967C_0__0073D6D6F0D738A011E0075EF869876C1CB0E5DE.udd" 991
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F1F4BA9949239CF1959F9A847279B__63540DE75C18B2E1191D8471A2C822F24A6D41C9.udd" 992
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F1F4BA9949239CF1959F9A847279B__201BE5B3142906A5E90F4524465E54F6DD18CD36.udd" 993
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F1F4BA9949239CF1959F9A847279B__3599092D252C995BF01D159B0C4B0FA5614B61D6.udd" 994
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F1F4BA9949239CF1959F9A847279B__E3E9A5D3066E142FB6D7AFB9D6AEB723375A742D.udd" 995
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_F1F4BA9949239CF1959F9A847279B__61D41AC69DCD2595F7D487063E897F74365AC4BD.udd" 996
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A27C116D4731E152C85A8FBBEDD5A__2BC6CE565B55EE7BB0AEEAC9CF3E19F2A47FCF92.udd" 997
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 998
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 999
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/Levels/Level2.umap" 1000
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_A0A6CE3648A0A3858B3E348B59FC70B0__1_0_13123_0.udd" 1001
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/0/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_EDF86A09461D95A1349618A5BF540F90__1_0_13123_0.udd" 1002
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/2/9/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_A54D534C421CD5DDE4BBE9A0B30A7AD5__1_0_13123_0.udd" 1003
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/7/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_AB99E31C45A9B1E4971F889DA1F365A2__1_0_13123_0.udd" 1004
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/4/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_3D68948F42E3A65334B110A951DDD441__1_0_13123_0.udd" 1005
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/8/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_6E3BD8F04D0556F974F0B7B4F20CA1D8__1_0_13123_0.udd" 1006
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/3/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_C727C3524C054B2B8414D6B1BE24B4BF__1_0_13123_0.udd" 1007
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/8/2/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_369B288342BE49C7B8FCDDAFA19EE891__1_0_13123_0.udd" 1008
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/8/PHYSX_1D9C17C451EA4FB88CB7A27536A65DB0_PHYSXPC_E583006E477180BB5275989F1A9F52A8__1_0_13123_0.udd" 1009
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5A70A564E9225609C67A88B51FEF__4E5CD3FAE040FB50A14C04F161CE7FAD900CC498.udd" 1010
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/9/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5A70A564E9225609C67A88B51FEF__9A5CB209E3D6CBC8C393FFB04A4DC817E3F006A9.udd" 1011
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/6/9/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5A70A564E9225609C67A88B51FEF__07879DF454E4E5AC942D6F61B189BE225CD873AC.udd" 1012
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5A70A564E9225609C67A88B51FEF__C14B66D9E1D042D4F2FB21DEC4F8C21362271400.udd" 1013
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/0/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_A5A70A564E9225609C67A88B51FEF__8760879FF3DD30C28D48D16244E303B836D92A35.udd" 1014
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_FCB3DFA04F56A0E14DFA35BF165D8__0AFBE2BB19286E3874B4C4E2F4F28EB85C5C1542.udd" 1015
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/3/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_D535D9044E1B53863CF6E6B710106__B4A1753FEA24F3C608E0616399665E190C2B24E2.udd" 1016
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/0/8/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7130C8D0452BF1C8405E49B87D734AE6__A5223FDF7B795A6BB58BBBE83CAD587EFD4D59AB.udd" 1017
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/4/4/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7130C8D0452BF1C8405E49B87D734AE6__40F969EAE4F519DE5080C2B6D21A77F4915FBAA6.udd" 1018
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/0/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7130C8D0452BF1C8405E49B87D734AE6__6C70014ED605027F4432DEA9895EEDC9F8267D1E.udd" 1019
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/1/3/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7130C8D0452BF1C8405E49B87D734AE6__03414D0B08DB8664E0789E1C7A7528A8177D51FF.udd" 1020
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/1/5/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_7130C8D0452BF1C8405E49B87D734AE6__1829999FA74CC53F3AA82485C2A5561DD1685847.udd" 1021
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/9/TEXTURE_814DCC3DC72143F49509781513CB9855_DXT1_B78FBF3B4363A857F58E99926F499EB0__754F22C72A360441B11737E93B29378EE87DB617.udd" 1022
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/9/9/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6BE6F7F64FC0C6E66C9864B823B91BBF_0__B50CFBBA59A22BA0EE0C07A3D0D3809BCCAE406F.udd" 1023
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/4/8/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6BE6F7F64FC0C6E66C9864B823B91BBF_0__54DFABB1C88FEF94A31C2A0B43CF9B25723D20AE.udd" 1024
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/7/7/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6BE6F7F64FC0C6E66C9864B823B91BBF_0__A364342899C8E3A0C992F1EE47F3ED6CD594AF43.udd" 1025
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6BE6F7F64FC0C6E66C9864B823B91BBF_0__51ACC1AC7844A02A57C42E107A68F4B83DD97C96.udd" 1026
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/5/1/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_6BE6F7F64FC0C6E66C9864B823B91BBF_0__C21EB9AA8FC2525DCDD44F4325FE33BCA02345E2.udd" 1027
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_C9139E1047509B5720CE49B858380F06_0__E9B3FBC41881875C17EFF8C8EC1A4FCA731CC443.udd" 1028
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/0/TEXTURE_814DCC3DC72143F49509781513CB9855_G8_727D94B548117D82257B6BBAA580092D_0__0E8A1668FE3E72FF05CE4E04261FA81C572B51E3.udd" 1029
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/6/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8736608B46D3E265391567AC72C8E__7B5C4B71576BD4ED21A80DCCF4E2241E3EFAD1AE.udd" 1030
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/1/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8736608B46D3E265391567AC72C8E__F8E201528EF55110FCD017D571041A6C0DC419F8.udd" 1031
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/6/8/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8736608B46D3E265391567AC72C8E__3F1D3548520EB9D962D8A85070C5D848AC731E6E.udd" 1032
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/1/2/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8736608B46D3E265391567AC72C8E__68BF49051041750B414EE243A382D812F022940B.udd" 1033
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/5/0/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_8736608B46D3E265391567AC72C8E__3D2A8E4B837524FD3F3DE5CD189A01265F015CC4.udd" 1034
+"C:/Users/Taylor/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/4/3/TEXTURE_814DCC3DC72143F49509781513CB9855_AUTODXT_DE971C9644700ABE3CC7FD9D6C84F__1FE1A4510C99C0A8905949C1354C90BBED136340.udd" 1035
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 1036
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 1037
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 1038
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 1039
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 1040
+"../../../../../../Users/Taylor/Documents/Unreal Projects/MyGameProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 1041
+"..\..\..\Engine\Content\Internationalization\icudt53l\windowsZones.res" 1042
+"..\..\..\Engine\Content\Internationalization\icudt53l\zoneinfo64.res" 1043
+"..\..\..\Engine\Content\Internationalization\icudt53l\keyTypeData.res" 1044
+"..\..\..\Engine\Content\Internationalization\icudt53l\timezoneTypes.res" 1045
+"..\..\..\Engine\Content\Internationalization\icudt53l\supplementalData.res" 1046
+"..\..\..\Engine\Content\Internationalization\icudt53l\likelySubtags.res" 1047
